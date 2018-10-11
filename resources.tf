@@ -3,7 +3,7 @@
 ################
 resource "aws_key_pair" "default" {
   key_name = "singapore"
-  public_key ="ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCYOYV/afimVgq/bbxEUGVd1IIA1E4OVE3mjwY+rehU/8usS9L0zEeXOeiF/zwSiAobcnRDTw8lMo6jp2nonCgIymqbcQT2ssVHhauHPQAMnyD5P9E/m5nkiwy6VhIbX3tENhUfSHm5bdDUv2kZtPFRdhqWDQqbffADS7lH/j6kHA3BtsJl5fKaera5kMJCB+2BQ5YNf+dAIbH28XfpRgMwz4OgRLRQALyzZ5ktpMEfCKuPLwN7Ea7tJJY4EuiAcCFmhBv20Tma5oNIzKpI2BPTBEG7crmQ9cj9UfShsWmy6zZUxBilqyy89BlTgCnGYC+E9NYsjfofmGQNFTN3Kw3Z" 
+  public_key ="your key" 
 }
 
 ##########################
